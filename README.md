@@ -1,3 +1,3 @@
 # drag-and-drop
 
-![examle](/examle.png)
+![examle](/example.png)
